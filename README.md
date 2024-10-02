@@ -63,7 +63,8 @@ Please add your details to the table below after your pull request has been merg
 
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
 | --------------- | ------------- | --------------|------------|-----------------|
-| Akhul  | Hero Section | www.example.com   | 19-06-2024 | HTML, CSS, JS   |
+| Akhul  | Hero Section | www.example.com   | 28-06-2024 | HTML, CSS, JS   |
+| Manish Rawat  | Hero Section | https://github.com/GrapplTech/GrapplTech-Community-Built-Web-Components/pull/45   | 19-06-2024 | HTML, CSS, JS   |
 
 ## Example Entry
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
